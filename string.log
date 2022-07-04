@@ -1,0 +1,25 @@
+2022-07-04 16:56:13,125 INFO root We are extracting a string from 1st index to 300th index with a jump of 3
+2022-07-04 16:56:13,125 INFO root Extracted string is tssyityopgmncsa alrNph rgni ni
+2022-07-04 16:57:20,259 INFO root We are extracting a string from 1st index to 300th index with a jump of 3
+2022-07-04 16:57:20,259 ERROR root Empty String
+Traceback (most recent call last):
+  File "/Users/shubhamkumar/PycharmProjects/pythonProject4/test1.py", line 11, in extract_string
+    raise ValueError("Empty String")
+ValueError: Empty String
+2022-07-04 17:07:58,347 INFO root This function will reverse the given string
+2022-07-04 17:07:58,347 INFO root Reversed string is: noitcnuf sti dna gnirts nohtyp GNINrael ma i dna ssalc gnimmargorp nohtyP tsriF yM si siht
+2022-07-04 17:22:43,541 INFO root Capitalize the string
+2022-07-04 17:22:43,541 INFO root Upper string: THIS IS MY FIRST PYTHON PROGRAMMING CLASS AND I AM LEARNING PYTHON STRING AND ITS FUNCTION
+2022-07-04 17:23:17,203 INFO root Capitalize the string
+2022-07-04 17:23:17,204 ERROR root Empty String
+Traceback (most recent call last):
+  File "/Users/shubhamkumar/PycharmProjects/pythonProject4/test1.py", line 45, in capitalize_string
+    raise ValueError("Empty String")
+ValueError: Empty String
+2022-07-04 17:32:47,914 INFO root Split up the given string
+2022-07-04 17:32:47,914 INFO root Result is: ['this', 'is', 'My', 'First', 'Python', 'programming', 'class', 'and', 'i', 'am', 'learNING', 'python', 'string', 'and', 'its', 'function']
+2022-07-04 17:39:41,844 INFO root Make String into Lower Case
+2022-07-04 17:39:41,844 INFO root Converted string is this is my first python programming class and i am learning python string and its function
+2022-07-04 17:45:20,895 INFO root Capitalize and then Split up the given string
+2022-07-04 17:45:20,896 INFO root Upper case string is: THIS IS MY FIRST PYTHON PROGRAMMING CLASS AND I AM LEARNING PYTHON STRING AND ITS FUNCTION
+2022-07-04 17:45:20,896 INFO root Final output is: ['THIS', 'IS', 'MY', 'FIRST', 'PYTHON', 'PROGRAMMING', 'CLASS', 'AND', 'I', 'AM', 'LEARNING', 'PYTHON', 'STRING', 'AND', 'ITS', 'FUNCTION']
